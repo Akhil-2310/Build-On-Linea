@@ -15,6 +15,7 @@ This can be done by bringing the most basic things like grocery, food, clothing 
 All the buying and listing of products is controlled by the smart contract. The interface is built using vite where users can list their products and it will appear on the marketplace. The buyers who want to buy the products can buy the same within seconds from the marketplace. The contract is deployed on Linea Sepolia. [Contract address](https://sepolia.lineascan.build/address/0x6a464b31b714ad57d7713ed3684a9441d44b473f)
 
 - Future Scope
+
 Collaborating with delivery services to make the product reach the people's homes.
 
 
