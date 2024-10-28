@@ -382,12 +382,12 @@ createWeb3Modal({
 });
 
 
-const USDTAddress = "0x323e78f944A9a1FcF3a10efcC5319DBb0bB6e673";
-const DAIAddress = "0xE6F6e27c0BF1a4841E3F09d03D7D31Da8eAd0a27";
+const USDTAddress = "0x1abFB5a6B1c8AA5eB928f2447ED2b22d471b38A3";
+const DAIAddress = "0xC817c2C63178877069107873489ea69819f1A537";
 
 const currencyDetails = {
-  "0x323e78f944A9a1FcF3a10efcC5319DBb0bB6e673": { name: "USDT", decimals: 6 },
-  "0xE6F6e27c0BF1a4841E3F09d03D7D31Da8eAd0a27": { name: "DAI", decimals: 18 },
+  "0x1abFB5a6B1c8AA5eB928f2447ED2b22d471b38A3": { name: "USDT", decimals: 6 },
+  "0xC817c2C63178877069107873489ea69819f1A537": { name: "DAI", decimals: 18 },
 };
 
 const ERC20ABI = [
@@ -461,7 +461,7 @@ const formatPrice = (price, curr) => {
     try {
          //Handle ERC20 purchase (USDT/DAI)
         let adjustedPrice;
-        if (currency === "0x323e78f944A9a1FcF3a10efcC5319DBb0bB6e673") {
+        if (currency === "0x1abFB5a6B1c8AA5eB928f2447ED2b22d471b38A3") {
           // USDT (6 decimals)
           adjustedPrice = ethers.parseUnits(price.toString(), 6);
           const ERC20Contract = new Contract(currency, ERC20ABI, signer);
