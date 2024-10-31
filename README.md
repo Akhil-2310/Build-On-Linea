@@ -3,6 +3,8 @@
 ## Demo Link
 [Demo](https://www.loom.com/share/c4d65b88f96a465486f50e2392d1e0d3)
 
+[Youtube Link] (https://youtu.be/Vrtf9smwGjE)
+
 ## What is it all about?
 Web3 is a newer concept but is very useful. Though, the starting point for the same is pretty tough and therefore we need to change this. People are afraid to start using web3 in day to day life but we as an ecosystem, need to change this narrative and bring more and more people to web3 space. 
 
