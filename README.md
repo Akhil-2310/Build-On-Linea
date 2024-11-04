@@ -1,6 +1,9 @@
 ﻿## Social
 
 ## Demo Link
+
+[Live Demo](https://social-app-six-omega.vercel.app/)
+
 [Demo](https://www.loom.com/share/c4d65b88f96a465486f50e2392d1e0d3)
 
 [Youtube Link](https://youtu.be/Vrtf9smwGjE)
